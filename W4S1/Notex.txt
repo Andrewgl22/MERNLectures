@@ -1,0 +1,15 @@
+Week 4 Session 1
+
+-react-router
+    -<BrowserRouter> wraps everything in the App.js return
+    -<Route /> specifies a specific route and element= the component
+        to be rendered
+    -a tags refresh page and wipes out state, so Link tags from react-router are better
+    -useNavigate - should be imported and stored in a variable
+        navigate("/path") good for use in functions when clicking,
+
+    -view component folder
+
+    -useParams to grab value from URL.
+
+    *Tom uses Countries API as example project, uses React-Bootstrap

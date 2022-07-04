@@ -1,0 +1,5 @@
+Week 6 Session 2
+
+-Update and Delete routes for CRUD application
+
+-displaying validation errors

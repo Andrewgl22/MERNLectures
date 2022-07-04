@@ -1,0 +1,15 @@
+Week 3 Session 2
+
+-API requests
+-promises (Asynchronous requests)
+-api request returned as readable byte stream, then needs to be 
+converted to json
+-useEffect
+
+-grab data from API and store in component useEffect state
+-2 buttons to cycle through API calls with string interpolation, 
+illuminates the need for the dependency array
+
+-axios
+-axios makes the conversion from readableByteStream into json
+so only fetch needs to then convert the result to json

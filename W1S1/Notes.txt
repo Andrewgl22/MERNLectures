@@ -1,0 +1,24 @@
+WEEK 1 SESSION 1
+
+Where are we headed? The goal of the card game...
+
+JavaScript Syntax Refresher
+
+-data types and structures
+-Local and Global Scope
+
+-ES5 vs ES6 syntax
+
+-hoisting
+
+-let and const
+
+-camelCase for JavaScript convention
+
+-destructuring (ES6 syntax)
+
+-rest and spread operator
+
+-arrow functions
+
+-ternary operator

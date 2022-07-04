@@ -1,0 +1,9 @@
+Week 7 Session 1
+
+-Refactoring code
+
+-re-usable form
+
+-use filter to update state on front end immediately after a delete.
+back-end request will delete item from database, but won't clear out
+from front-end state immediately, so adding a filter function will clear out

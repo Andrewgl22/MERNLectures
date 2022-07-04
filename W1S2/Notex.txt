@@ -1,0 +1,28 @@
+Week 1 Session 2
+
+Intro to React
+
+-history of React
+-companies that use React
+
+-what is a front-end framework?
+
+-install React Dev-Tools
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+
+What is React?
+
+-Single Page Application
+
+-DOM and Virtual DOM
+    -diffing and reconciliation of components
+
+-Babel transpiler turns React code into JavaScript
+
+-JSX (JavaScript XML)
+
+-npx create-react-app *this turns app folder into git repo
+
+-creating first functional components
+
+-intro to props

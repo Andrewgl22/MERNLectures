@@ -1,0 +1,28 @@
+Week 5 Session 1
+
+CRUD routes
+Mongoose and Modularization
+
+-Databases
+-SQL vs NoSQL dbs
+
+*re-organize how Tom teaches it. Start by saying today we're learning about
+MongoDB, the specific NoSQL database we will be using to store
+data for our full-stack applications.
+
+Then go into the differences between SQL and NoSQL.
+Then get into writing actual queries.
+
+-connecting to mongo using the terminal
+    -mongo
+    -show dbs
+    -use mydb etc...
+
+-mongoose library use easier commands to connect to mongo.
+
+-hoisting for const vs let important
+
+-creating a mongoose schema to structure our data.
+-timestamps:true adds a created at and updated at field to each document
+
+-start by writing all code in server.js, then modularize into individual files after

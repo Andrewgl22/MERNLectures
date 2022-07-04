@@ -1,0 +1,21 @@
+Week 8 Session 1
+
+Login and Registration
+
+-bcrypt,cookie-parser,jsonwebtoken, dotenv
+
+-pre middleware functions
+
+-bcrypt to store password
+-virtual field for confirm password
+-hashing
+
+-register with JWT
+-I want to explain JWT in more detail, each of the 3 sections of
+chars that show up in the token. Should help illuminate why and how
+we use them
+
+-referencing other collections in document (where should I put this info?
+Don't think it connects in this lecture)
+
+-authenticate middleware

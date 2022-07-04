@@ -1,0 +1,9 @@
+Week 2 Session 2
+
+-JSX Forms
+-lifting state
+-conditional rendering
+-the event object (e)
+-e.preventDefault()
+-forms
+-adding a value attribute allows input fields to properly reload after submission

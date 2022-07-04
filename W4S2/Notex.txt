@@ -1,0 +1,26 @@
+Week 4 Session 2
+
+Intro to Node and Backend Setup
+
+-install Postman
+*Tom introduces Postman before getting into back-end routes. I would probably
+wait to explain it until we had back-end routes.
+
+-server.js file
+-npm init to create package.json with dependencies
+-install express
+
+-configuring server with require(express) and const app = express
+plus app.listen()
+
+-npm init -y immediately creates your package.json
+npm init will give you prompts to set it up, entry point 
+should be server.js
+
+-npm i nodemon
+
+-middleware 
+    -app.use(express.json())
+    -app.use(express.urlencoded)
+
+-faker api

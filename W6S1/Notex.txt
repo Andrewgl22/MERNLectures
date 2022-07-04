@@ -1,0 +1,10 @@
+Week 6 Session 1
+
+Full Stack Integration
+
+-install all dependencies for server and client
+
+-valueAsNumber -- what is this attribute?
+
+--creating a movie database application over 3 lectures
+

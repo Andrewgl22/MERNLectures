@@ -1,0 +1,15 @@
+Week 2 Session 1
+
+-component/props recap
+
+-.map()
+
+-hooks
+-state
+-getter and setter functions
+-different ways to pass and access props
+
+-synthetic events (onClick etc)
+
+
+*Tom uses Putting It Together assignment as example

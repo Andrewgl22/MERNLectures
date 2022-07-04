@@ -1,0 +1,6 @@
+Week 7 Session 2
+
+OOP and Legacy Class Components
+
+-class Components
+-component lifecycle, mount,unmount etc...

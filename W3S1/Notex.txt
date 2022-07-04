@@ -1,0 +1,5 @@
+Week 3 Session 1
+
+-validation errors w/ ternary operators
+-filter method - using filter as a way to delete items.
+-night mode toggle
